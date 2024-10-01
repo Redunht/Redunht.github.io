@@ -7,6 +7,8 @@ featured: true
 ---
 Let's drink
 
+Beer or Wine.
+
 <!--more-->
 
 I'll take a Lucky Buddha
