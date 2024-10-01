@@ -1,10 +1,10 @@
-baseURL: 'https://Ry1005.github.io'
+baseURL: 'https://Redunht.github.io'
 title: Ryan Nguyen
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://Ry1005.github.io'
+homepage: 'https://Redunht.github.io'
 defaultContentLanguage: 'en'
 googleAnalytics: G-xxx
 #paginate: 10 (depreciated)
