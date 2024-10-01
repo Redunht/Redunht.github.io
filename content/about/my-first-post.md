@@ -9,6 +9,8 @@ Let's drink
 
 Beer or Wine.
 
+Checkiing....
+
 <!--more-->
 
 I'll take a Lucky Buddha
