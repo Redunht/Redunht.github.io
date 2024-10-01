@@ -26,6 +26,7 @@ params:
     hugo.IsMultilingual: true
   darkModeTheme: data-dark-mode
   #darkModeTheme: icy-dark-mode
+  disableNextPrev: true
   comments:
     giscus:
       enable: true
